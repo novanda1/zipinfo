@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header :translucent="true">
       <ion-toolbar>
-        <ion-title>Zip Info Git </ion-title>
+        <ion-title>Zip Info </ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content :fullscreen="true">

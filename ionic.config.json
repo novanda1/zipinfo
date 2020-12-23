@@ -1,0 +1,7 @@
+{
+  "name": "zip-info",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
